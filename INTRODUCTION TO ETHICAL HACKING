@@ -1,0 +1,20 @@
+Elements of Information Security
+
+1)CIA triad
+
+a) Confidentiality - where sending a message from person A to person B and we dont want anybody to intercept it, and the technology for that will be Aes
+b) Integrity - it is the idea that the mssg sent from A to B has not changed, and if u want to guarantee that and the tech that will be used for that will be hashing, or digital signature something like shaw 256
+c) Availabilty - whatever resource you have no matter what will always stay online, so if one goes down , a portion of it goes down, a portion of it goes down , u dont lose the whole thing so what might be the tech
+
+d) Authenticity - entity needs to access a resource and we know who that is and verify that entity is who they say they are 
+
+
+ Attacks = Motive(Goal) * Method(TTP) * Vulnerability
+
+TTPs -> Tactics , Techniques and Procedures
+
+Tactic is the way or strategey adopted by the attacker
+Technique is the method that they use
+procedure is the system how they do it
+
+vulnerability is  the hole in the system through which attack happens 
